@@ -115,8 +115,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/deezums/BOSSA/releases/download/1.9.2/bossac-1.9.2-arduino-windows.tar.gz",
               "archiveFileName": "bossac-1.9.2-arduino-windows.tar.gz",
-              "checksum": "SHA-256:CB672328B6E6D27CFDE68D1E47CF8AFE15FAC40FAE7080F64DE532CBF48A6ECA",
-              "size": "115647"
+              "checksum": "SHA-256:50D7B8A8878D40997148AD94CF6259A222DC7B531B399DB4825041D8426D4E4D",
+              "size": "115578"
             },
             {
               "host": "x86_64-apple-darwin",
