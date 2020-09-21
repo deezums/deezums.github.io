@@ -109,7 +109,7 @@
         },
         {
           "name": "bossac",
-          "version": "1.9.2-arduino",
+          "version": "1.9.2",
           "systems": [
             {
               "host": "i686-mingw32",
