@@ -128,28 +128,28 @@
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linux64.tar.gz",
-              "archiveFileName": "bossac-1.9.2-arduino-linux64.tar.gz",
+              "archiveFileName": "bossac-1.9.1-arduino-linux64.tar.gz",
               "checksum": "SHA-256:d3d324a3503a8db825c01f3b38519e4d4824c4d0e42cb399a16c1e074f9a9a86",
               "size": "399453"
             },
             {
               "host": "i686-pc-linux-gnu",
               "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linux32.tar.gz",
-              "archiveFileName": "bossac-1.9.2-arduino-linux32.tar.gz",
+              "archiveFileName": "bossac-1.9.1-arduino-linux32.tar.gz",
               "checksum": "SHA-256:eec622b8b5a8642af94ec23febfe14c928edd734f144db73b146bf6708d2057f",
               "size": "384792"
             },
             {
               "host": "arm-linux-gnueabihf",
               "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linuxarm.tar.gz",
-              "archiveFileName": "bossac-1.9.2-arduino-linuxarm.tar.gz",
+              "archiveFileName": "bossac-1.9.1-arduino-linuxarm.tar.gz",
               "checksum": "SHA-256:b42061d2fa2dbd6910d0d295e024f2cff7bb44f3e2ecc0bc2fe71a1f31b0ecba",
               "size": "361799"
             },
             {
               "host": "aarch64-linux-gnu",
               "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linuxaarch64.tar.gz",
-              "archiveFileName": "bossac-1.9.2-arduino-linuxaarch64.tar.gz",
+              "archiveFileName": "bossac-1.9.1-arduino-linuxaarch64.tar.gz",
               "checksum": "SHA-256:b271013841e1e25ee55f241e8c50a56ed775d3b322844e1e3099231ba17f3868",
               "size": "442657"
             }
